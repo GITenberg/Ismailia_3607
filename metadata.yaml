@@ -1,5 +1,5 @@
 _repo: Ismailia_3607
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,5 +26,6 @@ subjects:
 - !lcsh 'Africa, Central -- Description and travel'
 - !lcc 'DT'
 - !lcsh 'Slave trade -- Africa'
+- GITenberg
 title: Ismailia
 url: http://www.gutenberg.org/ebooks/3607
